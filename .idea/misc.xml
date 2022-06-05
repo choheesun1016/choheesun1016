@@ -12,6 +12,9 @@
         <entry key="..\:/Users/chs73/AndroidStudioProjects/Termproject/app/src/main/res/layout/activity_main2.xml" value="0.33" />
         <entry key="..\:/Users/chs73/AndroidStudioProjects/Termproject/app/src/main/res/layout/activity_main3.xml" value="0.33" />
         <entry key="..\:/Users/chs73/AndroidStudioProjects/Termproject/app/src/main/res/layout/camera.xml" value="0.3359375" />
+        <entry key="app/src/main/res/layout/memo_exercise.xml" value="0.29393115942028986" />
+        <entry key="app/src/main/res/layout/memo_study.xml" value="0.29393115942028986" />
+        <entry key="app/src/main/res/layout/memo_trip.xml" value="0.29393115942028986" />
       </map>
     </option>
   </component>
